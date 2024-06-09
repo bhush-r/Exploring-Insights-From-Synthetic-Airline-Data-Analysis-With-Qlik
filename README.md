@@ -78,7 +78,9 @@ Design intuitive dashboards in Qlik Sense to present the visualizations.
 Create separate dashboards for each scenario:
 
 **Revenue Optimization Dashboard** : Displays revenue trends, peak travel times, popular destinations, and pricing strategy effectiveness.
+
 **Operational Efficiency Dashboard**: Shows flight schedules, passenger flow analysis, Predict Peak Traffic time Analysis, and resource allocation.
+
 **Customer Experience Dashboard**: Highlights customer satisfaction levels, preferences, pain points, and personalized service recommendations.
 
 ##  5. Storytelling
