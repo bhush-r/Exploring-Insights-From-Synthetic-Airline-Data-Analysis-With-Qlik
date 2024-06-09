@@ -3,7 +3,7 @@ Name- Bhushan Lilhare
 
 Skillwallet ID: SWUID20240001047
 
-remote add origin https://github.com/smartinternz02/SI-GuidedProject-713053-1706296693
+remote add origin: https://github.com/bhush-r/Exploring-Insights-From-Synthetic-Airline-Data-Analysis-With-Qlik.git
 
 SmartInternz Profile:- https://skillwallet.smartinternz.com/student-profile/feed/99887c4d3feb49d493c85bb824452d48
 
